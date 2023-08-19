@@ -1,0 +1,6 @@
+librosa==0.10.1
+matplotlib==3.7.2
+numpy==1.22.3
+streamlit==1.25.0
+tensorflow==2.13.0
+wordcloud==1.9.2
